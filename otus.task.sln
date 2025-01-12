@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "otus.task", "otus.task\otus.task.csproj", "{6529757C-FB0E-4976-B6A5-BE55567344EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6529757C-FB0E-4976-B6A5-BE55567344EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6529757C-FB0E-4976-B6A5-BE55567344EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6529757C-FB0E-4976-B6A5-BE55567344EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6529757C-FB0E-4976-B6A5-BE55567344EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
